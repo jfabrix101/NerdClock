@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <ListPreference
+        android:key="mainClockType"
+        android:title="@string/mainClockType_title"
+        android:summary="@string/mainClockType_summary"
+        android:entries="@array/mainClockType" android:entryValues="@array/mainClockType"
+        />
+
+
+
+
+
+</PreferenceScreen>

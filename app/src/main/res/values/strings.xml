@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nerd Clock</string>
+    <string name="mainClockType_title">Clock Type</string>
+    <string name="mainClockType_summary">Select the clock type for first row</string>
+</resources>

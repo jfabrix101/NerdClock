@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="mainClockType">
+        <item>@string/mainClockType_MILLIS</item>
+        <item>@string/mainClockType_BINARY</item>
+        <item>@string/mainClockType_HEX</item>
+        <item>@string/mainClockType_MORSE</item>
+    </string-array>
+
+
+    <string name="mainClockType_MILLIS">Milliseconds</string>
+    <string name="mainClockType_BINARY">Binary</string>
+    <string name="mainClockType_HEX">Hexdecimal</string>
+    <string name="mainClockType_MORSE">Morse Code</string>
+</resources>
